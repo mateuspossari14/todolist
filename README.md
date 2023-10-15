@@ -17,7 +17,7 @@
 ## Como executar
 
 > 1. Clone o repositório do projeto:
-git clone https://github.com/vraposo/todolist
+git clone https://github.com/mateuspossari14/todolist
 
 > 2. Acesse a pasta do projeto e execute o comando para instalar as dependências:
 mvn install
