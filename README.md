@@ -8,11 +8,12 @@
 
 ## Tecnologias utilizadas
 
-> * **Java 17** ☕
-> * **Spring Boot 3** 🌱
+> * **Java 17** 
+> * **Spring Boot 3** 
 > * **Lombok**
-> * **H2 Database** 💧
-> * **BCrypt** 🛡️
+> * **Maven**
+> * **H2 Database** 
+> * **BCrypt** 
 
 ## Como executar
 
