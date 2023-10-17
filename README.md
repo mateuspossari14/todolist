@@ -9,7 +9,7 @@
 ## Tecnologias utilizadas
 
 > * **Java 17** 
-> * **Spring Boot 3**
+> * **Spring Boot **
 > * **APIdog**
 > * **Lombok**
 > * **Maven**
